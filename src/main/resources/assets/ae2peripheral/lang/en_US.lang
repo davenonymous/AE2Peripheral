@@ -1,5 +1,4 @@
 
 tile.ae2peripheral:ccbus.name=ME ComputerCraft Bus
-tile.ae2peripheral:ccprovider.name=ME ComputerCraft Provider
 
 container.ae2peripheral:ccbus=ME ComputerCraft Bus
